@@ -113,7 +113,7 @@ google-cloud-bigquery==3.13.0
 google-cloud-pubsub
 
 # google cloud depends on this version as of 5/26/22
-protobuf>=3.20.1
+protobuf>=4.25.8
 
 django-debug-toolbar==4.2.0
 

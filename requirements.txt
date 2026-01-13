@@ -151,3 +151,4 @@ requests-toolbelt~=0.10.1
 
 # sequence generation
 django-sequences==3.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
